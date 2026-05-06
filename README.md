@@ -1,5 +1,10 @@
 # 🤖 AI Resume Screening & Ranking System
 
+## Live Demo
+
+https://deeksha35-resume-screening-system-app-38amyb.streamlit.app/
+
+---
 ## 📌 Project Overview
 The AI Resume Screening & Ranking System is an NLP-based application that helps automate the resume shortlisting process. The system compares resumes with a given job description and ranks candidates based on similarity scores.
 
