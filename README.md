@@ -11,6 +11,10 @@ The AI Resume Screening & Ranking System is an NLP-based application that helps 
 This project reduces manual effort in recruitment and improves the efficiency of resume screening.
 
 ---
+## Screenshots
+
+### Home Page
+
 
 # 🚀 Features
 - Upload and analyze PDF resumes
