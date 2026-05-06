@@ -14,13 +14,13 @@ This project reduces manual effort in recruitment and improves the efficiency of
 ## Screenshots
 
 ### Home Page
-![Home](Screenshot 2026-05-06 132538.png)
+![Home](home.png)
 
 ### Job Description Input
-![JD](Screenshot 2026-05-06 132615.png)
+![JD](jd.png)
 
 ### Resume Ranking Results
-![Results](Screenshot 2026-05-06 132628.png)
+![Results](result.png)
 
 
 # 🚀 Features
