@@ -23,6 +23,9 @@ This project reduces manual effort in recruitment and improves the efficiency of
 ![Results](result.png)
 
 
+---
+
+
 # 🚀 Features
 - Upload and analyze PDF resumes
 - Job description matching
